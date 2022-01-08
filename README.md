@@ -2,6 +2,23 @@
 ### My source of Information
 ---
 
+1. Allrounder (EN)
+2. DOKUS General (Humans) (DE)
+3. Allrounder (DE)
+4. MINT (DE)
+5. MINT (EN)
+6. History (DE)
+7. IT General / News (DE)
+8. IT General / News (EN)
+9. IT (EN)
+10. IT (DE)
+11. Comedy (DE)
+12. Hardware (EN)
+13. Hardware (DE)
+14. Travel (EN)
+
+---
+
 ## Allrounder (EN)
 
 - ![Tom Scott](https://yt3.ggpht.com/ytc/AKedOLSLrbgiwuHkiq9CtD21xlxlbDpTdZ-Dby1a24-Mgg=s88-c-k-c0x00ffffff-no-rj) [Tom Scott](https://www.youtube.com/c/TomScottGo)
