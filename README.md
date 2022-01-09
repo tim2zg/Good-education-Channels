@@ -49,6 +49,8 @@
 
 - ![Kurzgesagt](https://yt3.ggpht.com/ytc/AKedOLQO2-DfuqwtPYTqBcZ8rEWt8g4p1sB_LyddKS5msQ=s88-c-k-c0x00ffffff-no-rj) [Kurzgesagt](https://www.youtube.com/c/inanutshell)
 
+- ![Nerdwriter1](https://yt3.ggpht.com/ytc/AKedOLRZkfWjYfFOkAq49ZyxqDd5hZOLqQy7CuBlK9HKvw=s88-c-k-c0x00ffffff-no-rj) [Nerdwriter1](https://www.youtube.com/user/nerdwriter1)
+
 ---
 
 ## DOKUS General (Humans) (DE)
@@ -92,6 +94,8 @@
 - ![Terra X Lesch & Co](https://yt3.ggpht.com/2v-T0uUG6_fxWJCCp476JNcy-Np4uW-OCPrfXFwnsbVI8kb-iOPgwQZ2oO-4fTGlvwy9m9tMfQ=s88-c-k-c0x00ffffff-no-rj) [Terra X Lesch & Co](https://www.youtube.com/c/terraxleschundco)
 
 - ![MathemaTrick](https://yt3.ggpht.com/0gIbEvGYwDb2EOzvmq1X1Xef-qFMcn8wfx7sjSbId3sk4zC7LP9necKSlazi6iURRq_u248c=s88-c-k-c0x00ffffff-no-rj) [MathemaTrick](https://www.youtube.com/c/MathemaTrick)
+
+- ![100SekundenPhysik](https://yt3.ggpht.com/69-xwYW6JrZa-Zq4lmZEVzyAuJPAwN552dGwzKzFkUyLkxOc4AoyRZEwdz1tOmZPSWdfJGJuyuM=s88-c-k-c0x00ffffff-no-rj) [100SekundenPhysik](https://www.youtube.com/c/100SekundenPhysik)
 
 ---
 
