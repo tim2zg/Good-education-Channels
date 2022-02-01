@@ -1,5 +1,6 @@
 # **Good education Channels**
 ### My source of Information
+### Pls, add your Channel by a Pull request or an Issue
 ---
 
 1. Allrounder (EN)
