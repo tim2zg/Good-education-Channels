@@ -119,6 +119,10 @@
 
 - ![Veritasium](https://yt3.ggpht.com/ytc/AKedOLQYcLqrGZC1RZL4e1AFz5-ImMQmmgObvzWBCL7-mA=s88-c-k-c0x00ffffff-no-rj) [Veritasium](https://www.youtube.com/c/EntropyWissenschaftSchnellErkl%C3%A4rt)
 
+- ![PBS Space Time](https://yt3.ggpht.com/ytc/AKedOLR050DsMpxKJGQlxmHXCPX1_wZ7QLo4xAn2tuyK7A=s88-c-k-c0x00ffffff-no-rj) [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g)
+
+- ![Tech Space](https://yt3.ggpht.com/aWtKzIC2XT9hfRstdtWyBuPe-n6yGR0DQFMeGAhpZ3isNfe-Hc7us2pftZWlq0abO3uEax6l=s88-c-k-c0x00ffffff-no-rj) [Tech Space](https://www.youtube.com/channel/UClc00GZ0zwYuXzZkKihMXCQ)
+
 ---
 
 ## History (DE)
