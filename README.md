@@ -1,5 +1,7 @@
 # **Good education Channels**
 ### My source of Information
+### A library which can answer me a lot of my Questions...
+### I also use https://curiositystream.com and https://nebula.app/
 ### Pls, add your Channel by a Pull request or an Issue
 ---
 
