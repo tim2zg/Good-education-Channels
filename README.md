@@ -14,9 +14,10 @@
 9. IT (EN)
 10. IT (DE)
 11. Comedy (DE)
-12. Hardware (EN)
-13. Hardware (DE)
-14. Travel (EN)
+12. Comedy (EN)
+13. Hardware (EN)
+14. Hardware (DE)
+15. Travel (EN)
 
 ---
 
@@ -51,6 +52,10 @@
 - ![Kurzgesagt](https://yt3.ggpht.com/ytc/AKedOLQO2-DfuqwtPYTqBcZ8rEWt8g4p1sB_LyddKS5msQ=s88-c-k-c0x00ffffff-no-rj) [Kurzgesagt](https://www.youtube.com/c/inanutshell)
 
 - ![Nerdwriter1](https://yt3.ggpht.com/ytc/AKedOLRZkfWjYfFOkAq49ZyxqDd5hZOLqQy7CuBlK9HKvw=s88-c-k-c0x00ffffff-no-rj) [Nerdwriter1](https://www.youtube.com/user/nerdwriter1)
+
+- ![ColdFusion](https://yt3.ggpht.com/ytc/AKedOLQBeAKtO3rSNgJp_Z6E_6WxaanKuGaEUv4Jux3y8g=s88-c-k-c0x00ffffff-no-rj) [ColdFusion](https://www.youtube.com/c/ColdFusion)
+
+- ![JohnCoogan](https://yt3.ggpht.com/ytc/AKedOLTNDufcv3DsegqnCZWc3QrwOQgmW_ENSrYVGBejrQ=s88-c-k-c0x00ffffff-no-rj) [JohnCoogan](https://www.youtube.com/c/JohnCooganPlus)
 
 ---
 
@@ -167,6 +172,8 @@
 
 - ![Python Simplified](https://yt3.ggpht.com/ytc/AKedOLRnaDX0HUp3EyfaHq8VwC6iDWJpB3o82DqgEwCmeg=s88-c-k-c0x00ffffff-no-rj) [Python Simplified](https://www.youtube.com/channel/UCKQdc0-Targ4nDIAUrlfKiA)
 
+- ![Fireship](https://yt3.ggpht.com/ytc/AKedOLTcIl6kKt3lEPJEySUf_hpHiKDKiFeo9eWPReLysQ=s88-c-k-c0x00ffffff-no-rj) [Fireship](https://www.youtube.com/c/Fireship)
+
 ---
 
 ## IT (DE)
@@ -192,6 +199,13 @@
 - ![WALULIS DAILY](https://yt3.ggpht.com/ytc/AKedOLQvvxKHk6OuUh6TdciPxoSu-hg86ygBTVAIznc3Dg=s88-c-k-c0x00ffffff-no-rj) [WALULIS DAILY](https://www.youtube.com/c/WALULISDAILY)
 
 - ![WUMMS](https://yt3.ggpht.com/ytc/AKedOLQL0XCs-Lsknyq7C354v1piGzeOWtIky08_nh2bsQ=s88-c-k-c0x00ffffff-no-rj) [WUMMS](https://www.youtube.com/c/WUMMS)
+
+---
+
+
+## Comedy (EN)
+
+- ![MichaelReeves](https://yt3.ggpht.com/ytc/AKedOLTDmU5uSkn6RgcHAIC4jxnRzFbZ9l6wPdpBdCZjoQ=s88-c-k-c0x00ffffff-no-rj) [MichaelReeves](https://www.youtube.com/c/MichaelReeves)
 
 ---
 
