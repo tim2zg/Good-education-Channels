@@ -80,7 +80,7 @@
 
 - ![Ultralativ](https://yt3.ggpht.com/ytc/AKedOLSuTxpkakWo-DCicBU0sY08pRfiNSgXHC9ogJRQ4Q=s88-c-k-c0x00ffffff-no-rj) [Ultralativ](https://www.youtube.com/c/Ultralativ)
 
-- ![SimpleClub](https://yt3.ggpht.com/ytc/AKedOLQ2qhPzCBf_9pMW7XzSWvFy2yNWlzQlzFFm6MVFmA=s176-c-k-c0x00ffffff-no-rj) [SimpleClub](https://www.youtube.com/user/TheSimpleClub/channels)
+- ![SimpleClub](https://yt3.ggpht.com/ytc/AKedOLQ2qhPzCBf_9pMW7XzSWvFy2yNWlzQlzFFm6MVFmA=s88-c-k-c0x00ffffff-no-rj) [SimpleClub](https://www.youtube.com/user/TheSimpleClub/channels)
 
 
 ---
@@ -101,7 +101,7 @@
 
 - ![100SekundenPhysik](https://yt3.ggpht.com/69-xwYW6JrZa-Zq4lmZEVzyAuJPAwN552dGwzKzFkUyLkxOc4AoyRZEwdz1tOmZPSWdfJGJuyuM=s88-c-k-c0x00ffffff-no-rj) [100SekundenPhysik](https://www.youtube.com/c/100SekundenPhysik)
 
-- ![Lehrer Schmidt](https://yt3.ggpht.com/ytc/AKedOLSHpNpV0GpQo0CMYxI3IerA0ljPJEe5dGlEZ_owAM4=s176-c-k-c0x00ffffff-no-rj) [Lehrer Schmidt](https://www.youtube.com/c/lehrerschmidt)
+- ![Lehrer Schmidt](https://yt3.ggpht.com/ytc/AKedOLSHpNpV0GpQo0CMYxI3IerA0ljPJEe5dGlEZ_owAM4=s88-c-k-c0x00ffffff-no-rj) [Lehrer Schmidt](https://www.youtube.com/c/lehrerschmidt)
 ---
 
 ## MINT (EN)
@@ -165,7 +165,7 @@
 
 - ![Tech with tim](https://yt3.ggpht.com/ytc/AKedOLQXx-JXf1NsSUtVHcYhx4B4MaIYE0m7I_H0GHmu-w=s88-c-k-c0x00ffffff-no-rj) [Tech with tim](https://www.youtube.com/c/TechWithTim)
 
-- ![Python Simplified](https://yt3.ggpht.com/ytc/AKedOLRnaDX0HUp3EyfaHq8VwC6iDWJpB3o82DqgEwCmeg=s176-c-k-c0x00ffffff-no-rj) [Python Simplified](https://www.youtube.com/channel/UCKQdc0-Targ4nDIAUrlfKiA)
+- ![Python Simplified](https://yt3.ggpht.com/ytc/AKedOLRnaDX0HUp3EyfaHq8VwC6iDWJpB3o82DqgEwCmeg=s88-c-k-c0x00ffffff-no-rj) [Python Simplified](https://www.youtube.com/channel/UCKQdc0-Targ4nDIAUrlfKiA)
 
 ---
 
