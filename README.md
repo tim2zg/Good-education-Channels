@@ -165,6 +165,8 @@
 
 - ![Tech with tim](https://yt3.ggpht.com/ytc/AKedOLQXx-JXf1NsSUtVHcYhx4B4MaIYE0m7I_H0GHmu-w=s88-c-k-c0x00ffffff-no-rj) [Tech with tim](https://www.youtube.com/c/TechWithTim)
 
+- ![Python Simplified](https://yt3.ggpht.com/ytc/AKedOLRnaDX0HUp3EyfaHq8VwC6iDWJpB3o82DqgEwCmeg=s176-c-k-c0x00ffffff-no-rj) [Python Simplified](https://www.youtube.com/channel/UCKQdc0-Targ4nDIAUrlfKiA)
+
 ---
 
 ## IT (DE)
