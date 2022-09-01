@@ -5,22 +5,24 @@
 ### Pls, add your Channel by a Pull request or an Issue
 ---
 
-1. Allrounder (EN)
-2. DOKUS General (Humans) (DE)
-3. Allrounder (DE)
-4. MINT (DE)
-5. MINT (EN)
-6. History (DE)
-7. IT General / News (DE)
-8. IT General / News (EN)
-9. IT (EN)
-10. IT (DE)
-11. Comedy (DE)
-12. Comedy (EN)
-13. Hardware (EN)
-14. Hardware (DE)
-15. Travel (EN)
-16. Engineering (EN)
+### Categories
+1. [Allrounder (EN)](#allrounder-en)
+2. [DOKUS General (Humans) (DE)](#dokus-general-humans-de)
+3. [Allrounder (DE)](#dokus-general-humans-de)
+4. [MINT (DE)](#dokus-general-humans-de)
+5. [MINT (EN)](#mint-en)
+6. [History (DE)](#history-de)
+7. [IT General / News (DE)](#it-general--news-de)
+8. [IT General / News (EN)](#it-general--news-en)
+9. [IT (EN)](#it-en)
+10. [IT (DE)](#it-en)
+11. [Comedy (DE)](#comedy-de)
+12. [Comedy (EN)](#comedy-en)
+13. [Hardware (EN)](#hardware-en)
+14. [Hardware (DE)](#hardware-de)
+15. [Travel (EN)](#travel-en)
+16. [Engineering (EN)](#engineering-en)
+
 ---
 
 ## Allrounder (EN)
