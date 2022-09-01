@@ -20,7 +20,7 @@
 13. Hardware (EN)
 14. Hardware (DE)
 15. Travel (EN)
-
+16. Engineering (EN)
 ---
 
 ## Allrounder (EN)
@@ -254,3 +254,6 @@
 - ![Oskar and Dan](https://yt3.ggpht.com/ytc/AKedOLRm92SjGCFkrEbG5g9M5lXBk_TC8Mm-qUSxBb1G=s88-c-k-c0x00ffffff-no-rj) [Oskar and Dan](https://www.youtube.com/c/OskarandDan)
 
 - ![Spaghetti Road](https://yt3.ggpht.com/rB46o1SGcRkS24tQuM3qdsnqQZtetxuCiX93pHLhA3k9Yt1CsykdX5lRgu7ERHvVhgGSfvyb1fg=s88-c-k-c0x00ffffff-no-rj) [Spaghetti Road](https://www.youtube.com/c/SpaghettiRoad)
+
+## Engineering (EN)
+- ![Practical Engineering](https://yt3.ggpht.com/ytc/AMLnZu-WYhb2fWAkyAr4TFEMDHmFECp6wXQSwRLAm0vZwg=s88-c-k-c0x00ffffff-no-rj) [Practical Engineering](https://www.youtube.com/c/PracticalEngineeringChannel)
