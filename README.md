@@ -1,7 +1,7 @@
 # **Good education Channels**
-### My primary source of Information. Ranging from comedy to topics I missed at school. 
+### My primary source of information. Ranging from comedy to topics I missed at school. 
 ### I also use [Nebula](https://nebula.app/) and [Curiosity Stream](https://curiositystream.com/) which cost 15$ a year together. 
-### You of course can suggest new Channels by Issus or PR. 
+### You of course can suggest new channels by Issues or PR. 
 ---
 
 ### Categories
